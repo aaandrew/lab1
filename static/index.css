@@ -1,0 +1,41 @@
+body {
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+}
+
+.project-item {
+	height: 270px;
+	width: 300px;
+
+  background: #fff;
+	border-color: rgba(0,0,0,0.1);
+	border-style: solid;
+	border-radius: 3px;
+	border-width: 1px;
+	box-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+  -webkit-box-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+}
+
+.project-anchor {
+	text-decoration: none;
+	color: inherit;
+}
+
+.project-image > img {
+	height: 200px;
+	width: 300px;
+}
+
+.project-text {
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
+.project-title {
+	font-size: 18px;
+	color: #414141;
+	margin-bottom: 3px;
+}
+
+.project-descr {
+
+}
